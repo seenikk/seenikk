@@ -1,16 +1,16 @@
 
 <div id="header" align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="500" height="20"/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1000" height="20"/>
 </div>
 
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/LavishThankfulClingfish-size_restricted.gif" "/>
+  <img src="https://thumbs.gfycat.com/LavishThankfulClingfish-size_restricted.gif"  width="1000"/>
 </div>
 
 
 
 <div id="header" align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="500" height="20"/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1000" height="20"/>
 </div>
 
 
@@ -28,7 +28,7 @@
 
 
  <div id="header" align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="500" height="20"/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1000" height="20"/>
 </div>
 
 
@@ -99,7 +99,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="500" height="20"/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1000" height="20"/>
 </div>
 
 
@@ -123,6 +123,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </a>
   
   
+  <div id="header" align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1000" height="20"/>
+</div>
   
   ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seenikk&theme=dark&background=000000)](https://git.io/streak-stats)
